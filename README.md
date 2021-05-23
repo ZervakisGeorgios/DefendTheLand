@@ -24,4 +24,3 @@ By default the script will not ask to input variables. Most likely, you will nee
 ## Output:
 ```
 The script will output the list with all malicious IP addressses. Feel free to comment it out
-'''
