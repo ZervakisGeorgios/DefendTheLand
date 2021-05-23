@@ -13,7 +13,8 @@ This script performs the following actions:
 **Next weekend, I will release a newer version of thiss cript. The final goal is to configure a cron job in the linux server and have the script running continuously. In order not to block the legit administrators out, the script will ask the user to input a list of IPs that should be ignored**
 ## Input Variables:
 ```
-By default the script will not ask to input variables. Most likely, you will need to modify the variables from inside the script to define where to store the malicious log entries and/or to point it to a different log file.
+By default the script will not ask to input variables. 
+Nevertheless, you might need to modify the variables from inside the script to define where to store the malicious log entries and/or to point it to a different log file.
 ```
 ## Usage:
 ```
