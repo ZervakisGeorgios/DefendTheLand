@@ -16,7 +16,11 @@ By default the script will not ask to input variables. Most likely, you will nee
 ```
 ## Usage:
 ```
- •	Download this repository and place it into the directory of your choice.
- •	Modify line 36 to point the script to store the malicious logs in an appropriate file.
- •	If necessary, pass the full path of the log file by calling the readLogs method in line 85
+•	Download this repository and place it into the directory of your choice.
+•	Modify line 36 to point the script to store the malicious logs in an appropriate file.
+•	If necessary, pass the full path of the log file by calling the readLogs method in line 85
 ```
+## Output:
+```
+The script will output the list with all malicious IP addressses. Feel free to comment it out
+'''
