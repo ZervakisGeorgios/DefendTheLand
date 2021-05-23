@@ -10,7 +10,7 @@ This script performs the following actions:
  • It will then delete duplicates and will drop IP addresses that are already into the UFW table
  • FInally, it will place the malicious IP addresses into the UFW table
  
-Next weekend, I will release a newer version of thiss cript. The final goal is to configure a cron job in the linux server and have the script running continuously. In order not to block the legit administrators out, the script will ask the user to input a list of IPs that should be ignored.
+**Next weekend, I will release a newer version of thiss cript. The final goal is to configure a cron job in the linux server and have the script running continuously. In order not to block the legit administrators out, the script will ask the user to input a list of IPs that should be ignored.**
 ```
 ## Input Variables:
 ```
